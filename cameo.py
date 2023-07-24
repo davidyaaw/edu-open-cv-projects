@@ -61,7 +61,7 @@ class Cameo(object):
         3 -> find edges filter
         4 -> blur filter
         5 -> emboss filter
-        6 - > laplasian 3x3
+        6 - >laplasian 3x3
         7 - > laplasian 5x5
         """
         if keycode == 32:  # space
